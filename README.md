@@ -1,1 +1,1 @@
-# El-jeles_sz-mok
+Múveletek előjeles számokkal
